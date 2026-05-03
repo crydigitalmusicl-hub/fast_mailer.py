@@ -18,7 +18,7 @@ st.markdown("""
     .main { background-color: #0e1117; color: white; }
     .stButton>button { width: 100%; background-color: #ff4b4b; color: white; height: 3em; font-size: 20px; }
     </style>
-    """, unsafe_allow_stdio=True)
+    """, unsafe_allow_html=True)
 
 st.title("⚡ AF Media Group - High Speed Auto Mailer")
 st.write("গিটহাব এবং স্ট্রিমলিট ক্লাউড দিয়ে পরিচালিত প্রফেশনাল মেইলার।")
